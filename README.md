@@ -3,8 +3,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 Install node version [16](https://nodejs.org/en/)
 
-Go to app folder `cd ./app` then
-
 To install libraries and get prepared:
 
 ```bash
